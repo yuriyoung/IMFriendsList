@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/buddy-green.png</file>
+        <file>icon/buddy-status.png</file>
+        <file>icon/branch-closed.png</file>
+        <file>icon/branch-open.png</file>
+        <file>icon/buddy-offline.png</file>
+        <file>icon/status-gray.png</file>
+        <file>icon/status-green.png</file>
+        <file>icon/status-orange.png</file>
+        <file>icon/status-red.png</file>
+        <file>icon/ajax-loader.gif</file>
+    </qresource>
+</RCC>
